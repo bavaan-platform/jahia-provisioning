@@ -24,7 +24,7 @@
 - editConfiguration: "org.jahia.modules.jexperience.settings"
   configIdentifier: "global"
   properties:
-    jexperience.jCustomerURL: "https://jcustomer:9443"
+    jexperience.jCustomerURL: "https://srv-captain--jahia-jcustomer:9443"
     jexperience.jCustomerUsername: "karaf"
     jexperience.jCustomerPassword: "karaf"
     jexperience.jCustomerTrustAllCertificates: "true"
