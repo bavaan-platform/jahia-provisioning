@@ -11,7 +11,7 @@ To get started, execute the following commands:
 
 ```bash
 cd ~
-git clone https://github.com/Jahia/provisioning-tutorials.git
+git clone https://github.com/bavaan-platform/jahia-provisioning.git
 cd provisioning-tutorials/04-jexperience
 ```
 
@@ -57,4 +57,4 @@ This [provisioning script](./provisioning.yaml) uses one new commands when compa
 
 These tutorials should have provided you with a starting point for better understanding how to use Jahia's provisioning API.
 
-[Back to index](https://github.com/Jahia/provisioning-tutorials/)
+[Back to index](https://github.com/bavaan-platform/jahia-provisioning/)

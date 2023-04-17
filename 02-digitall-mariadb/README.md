@@ -17,7 +17,7 @@ To get started, execute the following commands:
 
 ```bash
 cd ~
-git clone https://github.com/Jahia/provisioning-tutorials.git
+git clone https://github.com/bavaan-platform/jahia-provisioning.git
 cd provisioning-tutorials/02-digitall-mariadb
 docker-compose up --renew-anon
 ```
